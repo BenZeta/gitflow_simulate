@@ -1,4 +1,4 @@
 # gitflow_simulate
 
-conflict from RF
+conflict
 PR Approved
